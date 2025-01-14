@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/kopilihaku/static/css/main.7f239bdd.css",
-    "main.js": "/kopilihaku/static/js/main.9f5041e1.js",
+    "main.js": "/kopilihaku/static/js/main.b03745e9.js",
     "static/media/offers3.svg": "/kopilihaku/static/media/offers3.40e772defb6113dc546481983f9fa810.svg",
     "static/media/image3.svg": "/kopilihaku/static/media/image3.7b05f8dc39781c1c17cf3e2446a6b783.svg",
     "static/media/image1.svg": "/kopilihaku/static/media/image1.5bbe4c0fb0b4069c962339d2f1c22bc0.svg",
@@ -16,10 +16,10 @@
     "static/media/avatar.svg": "/kopilihaku/static/media/avatar.39d7438b95aad2fa638c4ffd0234c861.svg",
     "index.html": "/kopilihaku/index.html",
     "main.7f239bdd.css.map": "/kopilihaku/static/css/main.7f239bdd.css.map",
-    "main.9f5041e1.js.map": "/kopilihaku/static/js/main.9f5041e1.js.map"
+    "main.b03745e9.js.map": "/kopilihaku/static/js/main.b03745e9.js.map"
   },
   "entrypoints": [
     "static/css/main.7f239bdd.css",
-    "static/js/main.9f5041e1.js"
+    "static/js/main.b03745e9.js"
   ]
 }
