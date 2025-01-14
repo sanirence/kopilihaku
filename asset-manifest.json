@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/kopilihaku/static/css/main.7f239bdd.css",
+    "main.js": "/kopilihaku/static/js/main.9f5041e1.js",
+    "static/media/offers3.svg": "/kopilihaku/static/media/offers3.40e772defb6113dc546481983f9fa810.svg",
+    "static/media/image3.svg": "/kopilihaku/static/media/image3.7b05f8dc39781c1c17cf3e2446a6b783.svg",
+    "static/media/image1.svg": "/kopilihaku/static/media/image1.5bbe4c0fb0b4069c962339d2f1c22bc0.svg",
+    "static/media/image8.svg": "/kopilihaku/static/media/image8.d00b9f87829c41b5eaea8fa7c62e73b4.svg",
+    "static/media/offers2.svg": "/kopilihaku/static/media/offers2.614d1fdbd24265867f8c45d21b27d264.svg",
+    "static/media/image7.svg": "/kopilihaku/static/media/image7.dea1c782cd2c04d9791e2e2e61f38449.svg",
+    "static/media/image4.svg": "/kopilihaku/static/media/image4.7af8d8fcfe1a055b7a184557d0e96ec9.svg",
+    "static/media/image6.svg": "/kopilihaku/static/media/image6.e858151426d4058c6bbd80d2bd4922e0.svg",
+    "static/media/image5.svg": "/kopilihaku/static/media/image5.cdcf07516b77358a4fd02af58e128ea5.svg",
+    "static/media/image2.svg": "/kopilihaku/static/media/image2.39b152dd58cdec00c736d80477d46e19.svg",
+    "static/media/offers1.svg": "/kopilihaku/static/media/offers1.7ca083b0400a1c0844c105d5c100f6ba.svg",
+    "static/media/avatar.svg": "/kopilihaku/static/media/avatar.39d7438b95aad2fa638c4ffd0234c861.svg",
+    "index.html": "/kopilihaku/index.html",
+    "main.7f239bdd.css.map": "/kopilihaku/static/css/main.7f239bdd.css.map",
+    "main.9f5041e1.js.map": "/kopilihaku/static/js/main.9f5041e1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7f239bdd.css",
+    "static/js/main.9f5041e1.js"
+  ]
+}
