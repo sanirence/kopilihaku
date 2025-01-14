@@ -7,7 +7,7 @@ import Home from "./pages/Home"
 
 function App() {
 	return (
-		<Router>
+		<Router basename="kopilihaku">
 			<Routes>
 				<Route path="/" element={<GetStarted />} />
 				<Route path="/signup" element={<SignUp />} />
