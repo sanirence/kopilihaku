@@ -1,8 +1,8 @@
-import img1 from "../assets/image2.svg"
-import img2 from "../assets/image3.svg"
-import img3 from "../assets/image4.svg"
-import img4 from "../assets/image5.svg"
-import img5 from "../assets/image6.svg"
+import img1 from "../assets/getstarted-carousel-1.png"
+import img2 from "../assets/getstarted-carousel-2.png"
+import img3 from "../assets/getstarted-carousel-3.png"
+import img4 from "../assets/getstarted-carousel-4.png"
+import img5 from "../assets/getstarted-carousel-5.png"
 
 const GetStartedImagesCarousel = [
     {
