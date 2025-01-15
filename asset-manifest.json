@@ -1,25 +1,27 @@
 {
   "files": {
-    "main.css": "/kopilihaku/static/css/main.7f239bdd.css",
-    "main.js": "/kopilihaku/static/js/main.b03745e9.js",
-    "static/media/offers3.svg": "/kopilihaku/static/media/offers3.40e772defb6113dc546481983f9fa810.svg",
-    "static/media/image3.svg": "/kopilihaku/static/media/image3.7b05f8dc39781c1c17cf3e2446a6b783.svg",
-    "static/media/image1.svg": "/kopilihaku/static/media/image1.5bbe4c0fb0b4069c962339d2f1c22bc0.svg",
-    "static/media/image8.svg": "/kopilihaku/static/media/image8.d00b9f87829c41b5eaea8fa7c62e73b4.svg",
-    "static/media/offers2.svg": "/kopilihaku/static/media/offers2.614d1fdbd24265867f8c45d21b27d264.svg",
-    "static/media/image7.svg": "/kopilihaku/static/media/image7.dea1c782cd2c04d9791e2e2e61f38449.svg",
-    "static/media/image4.svg": "/kopilihaku/static/media/image4.7af8d8fcfe1a055b7a184557d0e96ec9.svg",
-    "static/media/image6.svg": "/kopilihaku/static/media/image6.e858151426d4058c6bbd80d2bd4922e0.svg",
-    "static/media/image5.svg": "/kopilihaku/static/media/image5.cdcf07516b77358a4fd02af58e128ea5.svg",
-    "static/media/image2.svg": "/kopilihaku/static/media/image2.39b152dd58cdec00c736d80477d46e19.svg",
-    "static/media/offers1.svg": "/kopilihaku/static/media/offers1.7ca083b0400a1c0844c105d5c100f6ba.svg",
-    "static/media/avatar.svg": "/kopilihaku/static/media/avatar.39d7438b95aad2fa638c4ffd0234c861.svg",
+    "main.css": "/kopilihaku/static/css/main.c90e95e9.css",
+    "main.js": "/kopilihaku/static/js/main.021a21f4.js",
+    "static/media/getstarted-carousel-4.png": "/kopilihaku/static/media/getstarted-carousel-4.e746dc103c7e7e135ad3.png",
+    "static/media/getstarted-carousel-2.png": "/kopilihaku/static/media/getstarted-carousel-2.8a6e82bbd80004053018.png",
+    "static/media/getstarted1.png": "/kopilihaku/static/media/getstarted1.bf5b861a99a96dd1a5fe.png",
+    "static/media/getstarted-carousel-5.png": "/kopilihaku/static/media/getstarted-carousel-5.590f3e81403ebc02e0fa.png",
+    "static/media/getstarted-carousel-1.png": "/kopilihaku/static/media/getstarted-carousel-1.7ca25ca725dd13a14e48.png",
+    "static/media/getstarted-carousel-3.png": "/kopilihaku/static/media/getstarted-carousel-3.9a4e98eaf3ca560309c7.png",
+    "static/media/bg-sign-in-up.png": "/kopilihaku/static/media/bg-sign-in-up.e1994b758de366d3e5c5.png",
+    "static/media/offer-2-1.png": "/kopilihaku/static/media/offer-2-1.b7ce67bb109a4977c8a4.png",
+    "static/media/offer1.png": "/kopilihaku/static/media/offer1.e8372f36c42fc9ef3a79.png",
+    "static/media/offer-1-1.png": "/kopilihaku/static/media/offer-1-1.58195cef9b6cbe6b4ed5.png",
+    "static/media/offer-1-2.png": "/kopilihaku/static/media/offer-1-2.82097fc8ad434f59c30e.png",
+    "static/media/getstarted2.png": "/kopilihaku/static/media/getstarted2.a292b562c51b27dcf453.png",
+    "static/media/suggest-macchiato-milk-caramel.png": "/kopilihaku/static/media/suggest-macchiato-milk-caramel.6947a083410c6660fcc4.png",
+    "static/media/suggest-latte-milk-choco.png": "/kopilihaku/static/media/suggest-latte-milk-choco.83b25a3c710a4724b920.png",
     "index.html": "/kopilihaku/index.html",
-    "main.7f239bdd.css.map": "/kopilihaku/static/css/main.7f239bdd.css.map",
-    "main.b03745e9.js.map": "/kopilihaku/static/js/main.b03745e9.js.map"
+    "main.c90e95e9.css.map": "/kopilihaku/static/css/main.c90e95e9.css.map",
+    "main.021a21f4.js.map": "/kopilihaku/static/js/main.021a21f4.js.map"
   },
   "entrypoints": [
-    "static/css/main.7f239bdd.css",
-    "static/js/main.b03745e9.js"
+    "static/css/main.c90e95e9.css",
+    "static/js/main.021a21f4.js"
   ]
 }
